@@ -1,0 +1,107 @@
+{
+ "total": 6,
+ "hits": [
+  {
+   "title": "Polar bear",
+   "designTitle": "",
+   "cover": "https://cdn.jsdelivr.net/gh/thefinkus/trmnl-prints@99149d8904226d3ad2a6a375275049b13f20d4c2/p/demo-polar-bear.png",
+   "weight": 23.8,
+   "length": 787,
+   "costTime": 9273,
+   "startTime": "2026-09-07T06:18:00Z",
+   "endTime": "2026-09-07T08:53:00Z",
+   "status": 2,
+   "deviceModel": "P1S",
+   "amsDetailMapping": [
+    {
+     "filamentType": "PLA"
+    }
+   ]
+  },
+  {
+   "title": "Dolomites relief 200 mm",
+   "designTitle": "",
+   "cover": "https://cdn.jsdelivr.net/gh/thefinkus/trmnl-prints@b51f411bcffc067004009a28894bffd8b8d91628/p/tactus-topo-dolomites-200mm-20260907-1629.png",
+   "weight": 287.0,
+   "length": 9230,
+   "costTime": 23400,
+   "startTime": "2026-09-06T19:17:00Z",
+   "endTime": "2026-09-07T01:47:00Z",
+   "status": 2,
+   "deviceModel": "P1S",
+   "amsDetailMapping": [
+    {
+     "filamentType": "PLA"
+    }
+   ]
+  },
+  {
+   "title": "Brancusi - Coloana Infinitului",
+   "designTitle": "Brancusi - Coloana Infinitului",
+   "cover": "https://cdn.jsdelivr.net/gh/thefinkus/trmnl-prints@b51f411bcffc067004009a28894bffd8b8d91628/p/demo-brancusi.png",
+   "weight": 266.4,
+   "length": 8840,
+   "costTime": 29280,
+   "startTime": "2026-09-05T22:05:00Z",
+   "endTime": "2026-09-06T06:13:00Z",
+   "status": 2,
+   "deviceModel": "P1S",
+   "amsDetailMapping": [
+    {
+     "filamentType": "PLA"
+    }
+   ]
+  },
+  {
+   "title": "Gridfinity sample card",
+   "designTitle": "",
+   "cover": "https://cdn.jsdelivr.net/gh/thefinkus/trmnl-prints@b51f411bcffc067004009a28894bffd8b8d91628/p/v3-gridfinity-20260908-1754.png",
+   "weight": 5.2,
+   "length": 170,
+   "costTime": 1202,
+   "startTime": "2026-09-05T15:53:00Z",
+   "endTime": "2026-09-05T16:12:00Z",
+   "status": 2,
+   "deviceModel": "P1S",
+   "amsDetailMapping": [
+    {
+     "filamentType": "PETG"
+    }
+   ]
+  },
+  {
+   "title": "3DBenchy",
+   "designTitle": "",
+   "cover": "https://cdn.jsdelivr.net/gh/thefinkus/trmnl-prints@b51f411bcffc067004009a28894bffd8b8d91628/p/3dbenchy-20260907-2229.png",
+   "weight": 11.9,
+   "length": 398,
+   "costTime": 3060,
+   "startTime": "2026-09-04T20:12:00Z",
+   "endTime": "2026-09-04T21:03:00Z",
+   "status": 2,
+   "deviceModel": "P1S",
+   "amsDetailMapping": [
+    {
+     "filamentType": "PLA"
+    }
+   ]
+  },
+  {
+   "title": "Mini T-Rex",
+   "designTitle": "",
+   "cover": "https://cdn.jsdelivr.net/gh/thefinkus/trmnl-prints@b51f411bcffc067004009a28894bffd8b8d91628/p/minitrex-20260907-2217.png",
+   "weight": 0.3,
+   "length": 9,
+   "costTime": 646,
+   "startTime": "2026-09-04T18:17:00Z",
+   "endTime": "2026-09-04T18:28:00Z",
+   "status": 3,
+   "deviceModel": "P1S",
+   "amsDetailMapping": [
+    {
+     "filamentType": "PLA"
+    }
+   ]
+  }
+ ]
+}
